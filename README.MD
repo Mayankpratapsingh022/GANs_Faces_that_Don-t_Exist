@@ -1,1 +1,1 @@
-#GANs Implementation: Creating Faces that Don't Exist
+# GANs Implementation: Creating Faces that Don't Exist
